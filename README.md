@@ -2,6 +2,7 @@
 Based on the given loan data can we understand the major factors or characteristics of a borrower which makes them to get into delinquent stage.  • Delinquency is a major metric in assessing risk as more and more customers getting delinquent means the risk of customers that will default will also increase.  • The main objective is to minimize the risk for which you need to build a decision tree model using CART technique that will identify various risk and non-risk attributes of borrower’s to get into delinquent stage
 
 Conclusion
+
 Accuracy on the Training Data: 83%
 Accuracy on the Test Data: 82%
 
